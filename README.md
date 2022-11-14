@@ -5,7 +5,7 @@
 Building a simple app in Kotlin according to The Standard
 
 
-here's a video introduction to Golang according to The Standard:
+here's a video introduction to Kotlin according to The Standard:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/De9GVULPAi4/0.jpg)](https://www.youtube.com/watch?v=IjUxOvJK-Ho)
 
